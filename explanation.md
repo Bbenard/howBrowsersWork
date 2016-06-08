@@ -33,3 +33,4 @@ Browser user interfaces have a lot in common with each other. Among the common u
 ##Types of Rendering engines
 
 Different browsers use different rendering engines: Internet Explorer uses Trident, Firefox uses Gecko, Safari uses WebKit. Chrome and Opera (from version 15) use Blink, a fork of WebKit. 
+(A [link](http://example.com "resource"))
