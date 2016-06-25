@@ -1,7 +1,7 @@
 # howBrowsersWork
 
-# -howBrowsersWorks-
-#This Repository explains how browsers operates
+##howBrowsersWorks
+##This Repository explains how browsers operates
 ## Content
 1.Introduction 
 
