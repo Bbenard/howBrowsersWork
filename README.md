@@ -1,6 +1,6 @@
 # howBrowsersWork
 
-##howBrowsersWorks
+##HowBrowsersWorks
 ##This Repository explains how browsers operates
 ## Content
 1.Introduction 
