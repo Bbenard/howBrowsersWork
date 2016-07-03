@@ -19,7 +19,7 @@ Browser user interfaces have a lot in common with each other. Among the common u
 
 ##The browser's high level structure
 
-**The browser's main components are **:
+**The browser's main components are**:
 
  **The user interface:** this includes the address bar, back/forward button, bookmarking menu, etc. Every part of the browser display except the window where you see the requested page.
  The browser engine: marshals actions between the UI and the rendering engine.
